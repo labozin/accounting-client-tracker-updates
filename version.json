@@ -1,5 +1,5 @@
 {
-  "version": "2.3",
-  "download_url": "https://github.com/labozin/accounting-client-tracker-updates/releases/download/2.3/AccountingClientTrackerSetup_v2.3.exe",
-  "notes": "Workers Compensation feature added"
+  "version": "2.4",
+  "download_url": "https://github.com/labozin/accounting-client-tracker-updates/releases/download/2.4/AccountingClientTrackerSetup_v2.4.exe",
+  "notes": "Improved alert badge design."
 }
